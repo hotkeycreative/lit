@@ -1,0 +1,99 @@
+Important Notes: 
+
+1. While these settings are a fun source of guidance and inspiration when writing, it's important to remember that they're only guidelines. If at any time you feel like they're less of a help than a hindrance, you can choose to reroll, change, or ignore any of the rules you choose here. You can even disable the rules entirely and continue writing the old-fashioned way. At the end of the day, the goal is for you to create something amazing. The game is just here to lend a helping hand if you feel you need it.
+
+2. The game (or AIDM) will make suggestions (in the form of writing prompts or simple outlines of places/characters) as often as you wish, but it cannot write for you or generate prose. All suggestions are made in very broad strokes, intended to be adaptable to any world or genre.
+
+
+
+World Settings:
+
+Does the game world utilize the FATE METER? (a meter that tracks the collective outcomes of SCENARIOS, QUESTS, CHALLENGES, ENCOUNTERS, etc., both positive and negative)
+**the whims of the FATE METER can be accepted, ignored, or rerolled**
+**when the FATE METER fills up to the left, it offers a WINDFALL**
+**when the FATE METER fills up to the right, it offers a HARDSHIP**
+
+Does the game world utilize HUBS? (population centers where special actions can be performed, such as exchanging CURRENCY for ITEMS or accepting new QUESTS)
+
+Does the game world utilize SCENARIOS? (events, in the form of writing prompts, that gently guide the direction of your writing without significantly affecting the larger plot)
+**all SCENARIOS can be accepted, ignored, or rerolled**
+**the outcome of a SCENARIO affects the FATE METER (if enabled)**
+
+Does the game world utilize QUESTS? (specific goals, in the form of writing prompts, that more forcefully guide the direction of your writing and may have an impact on the larger plot)
+**all QUESTS can be accepted, ignored, or rerolled**
+**the outcome of a QUEST affects the FATE METER (if enabled)**
+
+Does the game world utilize CHALLENGES? (situations, in the form of writing prompts, where a STAT or SKILL CHECK is required)
+**all CHALLENGES can be accepted, ignored, or rerolled**
+**the outcome of a CHALLENGE affects the FATE METER (if enabled)**
+
+Does the game world utilize ENCOUNTERS? (situations, in the form of writing prompts, where the character(s) must defeat ENEMIES)
+**all ENCOUNTERS can be accepted, ignored, or rerolled**
+**the outcome of an ENCOUNTER affects the FATE METER (if enabled)**
+
+Does the game world utilize LAIRS? (dangerous locations populated by ENEMIES, most often involved in QUESTS or DUNGEON CRAWLS)
+
+Does the game world utilize LOOT? (items maintained in an INVENTORY)
+- Do any items confer stat or skill bonuses?
+- Do any items have durability? (i.e., can they break down over time or be destroyed?)
+- Do any items have 'charges'? (i.e., can they only be used a fixed number of times before they become inert or need to be recharged?)
+- Do items have a monetary value?
+- Can items be bought or sold? (e.g., at a hub)
+- How are items obtained? (found at random, rewards successful CHALLENGES/SCENARIOS/QUESTS, purchased in HUBS, etc.)
+
+
+
+Character Settings:
+**whether you're writing alone or with friends, the game can keep track of any number of PLAYER CHARACTERS**
+**you can also convert any character in your story into a NON-PLAYER CHARACTER (NPC) if you want to bring
+them along on your adventures without having to keep track of their HP/STATS/SKILLS/ETC.**
+
+Do PLAYER CHARACTERS have HEALTH (HP)?
+- What happens when they run out of HP?
+- How is HP restored?
+- Can they earn extra lives?
+
+Do PLAYER CHARACTERS have special ABILITIES? (e.g., magic)
+- How do ABILITIES work? (do they damage and restore hitpoints, are they purely narrative, etc.)
+- Create ABILITIES or choose from presets.
+
+Do PLAYER CHARACTERS have an ABILITY RESOURCE? (e.g., mana)
+- Is it a 'build' RESOURCE or a 'spend' RESOURCE or both?
+- How is the RESOURCE built?
+- How is the RESOURCE spent?
+- Create RESOURCE(S) or choose from presets.
+
+Do PLAYER CHARACTERS have STATS?
+- How do they increase their STATS? (successful CHALLENGES/SCENARIOS/QUESTS, defeating ENEMIES, leveling up, etc.)
+- Create STATS or choose from presets.
+
+Do PLAYER CHARACTERS have SKILLS?
+- Are SKILLS affected by their stats?
+- How do they increase their SKILLS? (successful CHALLENGES/SCENARIOS/QUESTS, leveling up, etc.)
+- Create SKILLS or choose from presets.
+
+Do PLAYER CHARACTERS have LEVELS?
+- How do they gain LEVELS? (successful CHALLENGES/SCENARIOS/QUESTS, defeating ENEMIES, incremental experience, etc.)
+- Create LEVELS or choose from presets.
+
+
+
+Enemy Settings: 
+
+Do ENEMIES have HEALTH (HP)?
+Do ENEMIES have ABILITIES?
+Do ENEMIES have STATS?
+Do ENEMIES have SKILLS?
+Do ENEMIES have levels?
+Do ENEMIES have fixed LOOT?
+
+- Create ENEMIES or choose from presets.
+- Scale ENEMIES with the PLAYER CHARACTER level(s)?
+- Randomly generate ENEMIES for ENCOUNTERS?
+
+
+
+Meta Settings:
+
+Name your ruleset.
+Add tags.
